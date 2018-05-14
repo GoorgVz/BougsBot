@@ -1,0 +1,2 @@
+# BougsBot
+BougsBot, turkish system.
